@@ -1,6 +1,6 @@
 # Polo Climatronic
 
-One year ago my car was diagnosed with a problem in the Climatronic Air, for this reason I decided to study about it and save documentation about that as Air conditioning Repair companies want about 7 thousand BRL to repair it. I notice that no one of them know how to run a simple system test in the device. So, it was good to me, maybe no one cares about that, but I decided to create a markdown file to save it for the future.
+One year ago my car was diagnosed with a problem in the Climatronic Air, for this reason I decided to study about it and save documentation about as Air conditioning Repair companies wanted just 7 thousand BRL to repair it. I notice that no one of them know how to run a simple system test in the device. So, it was good to me, maybe no one cares about that, but I decided to create a markdown file to save it for the future.
 
 In the end, the issue was only the air conditioning compressor mirror and not the Climatronic device. Free points
 
